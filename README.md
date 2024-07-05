@@ -19,6 +19,11 @@ Este repositório contém projetos desenvolvidos no âmbito da cadeira de Sistem
 
 ## Como Utilizar
 
-Cada diretório contém o código fonte e instruções específicas para compilar e executar os projetos em diferentes ambientes. 
+Dentro deste repositório, você encontrará os seguintes arquivos:
 
-Para mais detalhes sobre cada projeto, por favor, consulte os README individuais dentro de cada diretório.
+- **dtwSequencial.c:** Implementação do algoritmo DTW utilizando uma abordagem sequencial.
+- **dtwOpenMp.c:** Implementação do algoritmo DTW utilizando OpenMP para paralelização.
+- **mpi.c:** Implementação do algoritmo DTW utilizando MPI para computação distribuída.
+- **hybrid.c:** Implementação do algoritmo DTW de forma híbrida, combinando MPI e OpenMP.
+
+Além dos arquivos de código fonte, há também uma série de testes com números randômicos disponíveis para a realização de testes empíricos e avaliação de desempenho.
