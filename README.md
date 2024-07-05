@@ -10,7 +10,7 @@ Este repositório contém projetos desenvolvidos no âmbito da cadeira de Sistem
 
 - **DTW com MPI:** Implementação do algoritmo DTW com o uso do MPI (Message Passing Interface) para distribuir o trabalho entre processos em um ambiente de computação distribuída.
   
-- - **DTW Híbrido (MPI + OpenMP):** Projeto que combina MPI e OpenMP para implementar o algoritmo DTW de forma híbrida, aproveitando tanto a distribuição entre processos quanto a paralelização em múltiplas threads.
+- **DTW Híbrido (MPI + OpenMP):** Projeto que combina MPI e OpenMP para implementar o algoritmo DTW de forma híbrida, aproveitando tanto a distribuição entre processos quanto a paralelização em múltiplas threads.
 
 ## Tecnologias Utilizadas
 
